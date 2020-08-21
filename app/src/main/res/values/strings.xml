@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Managenento Lixu</string>
+    <string name="title_home">Home</string>s
+    <string name="title_history">History</string>
+    <string name="title_profil">Account</string>
+    <string name="type_trash">Type Trash</string>
+    <string name="weight">Weight</string>
+    <string name="maps">Maps</string>
+    <string name="title_plastic">Plastic Trash </string>
+    <string name="description_plastic">This story is part of Planet or Plastic?—our multiyear effort to raise awareness about the global plastic waste crisis. </string>
+
+
+</resources>

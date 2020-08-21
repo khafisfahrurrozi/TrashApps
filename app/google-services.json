@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "365757347422",
+    "firebase_url": "https://managenento-lixu-92962.firebaseio.com",
+    "project_id": "managenento-lixu-92962",
+    "storage_bucket": "managenento-lixu-92962.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365757347422:android:439b7880969d7b6bfa66cf",
+        "android_client_info": {
+          "package_name": "com.example.trashapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365757347422-nkgjpuvm5surbe63tc8b1r50sqoqm9me.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trashapplication",
+            "certificate_hash": "ede0df7f4661978574640ba7b46b63067e536a3d"
+          }
+        },
+        {
+          "client_id": "365757347422-mdkg0m80fpfsrdbh3occ2do89hq2jhpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6eihGXI2iEAqy3UAwKyJHVNWkQLRlZQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365757347422-mdkg0m80fpfsrdbh3occ2do89hq2jhpd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
